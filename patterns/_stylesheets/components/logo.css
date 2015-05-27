@@ -1,0 +1,15 @@
+/**
+ * @file
+ */
+
+.logo {
+  background: url(../../_images/wunder-logo.svg) 0 0 no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  padding-bottom: 50%;
+}
+@media all and (max-width: 418px) {
+  .logo {
+    padding-bottom: 100%;
+  }
+}

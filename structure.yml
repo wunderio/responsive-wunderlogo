@@ -1,0 +1,6 @@
+title: Wunderlogo
+subtitle: Responsive SVG
+components:
+  logo:
+    title: Logo
+    url: patterns/logo/index.html
